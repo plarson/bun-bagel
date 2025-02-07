@@ -25,9 +25,11 @@
     "check:fix": "bunx biome check --unsafe --fix ./src ./tests",
     "prepublish": "bun run build"
   },
-  "devDependencies": {
-    "@biomejs/biome": "1.9.2",
+  "dependencies": {
     "bun-types": "latest"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.2"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

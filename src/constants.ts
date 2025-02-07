@@ -1,4 +1,4 @@
-import type { MockOptions } from "./types";
+import type { MockOptions } from "./types.js";
 
 /**
  * The default value for mock options.

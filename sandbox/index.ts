@@ -1,4 +1,4 @@
-import { mock } from '../dist/index';
+import { mock } from '../src/index';
 
 const MOCK_FETCH = true;
 
